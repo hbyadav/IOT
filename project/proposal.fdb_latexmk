@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1587045643 "proposal.tex" "proposal.pdf" "proposal" 1587045644
+["pdflatex"] 1587527806 "proposal.tex" "proposal.pdf" "proposal" 1587527807
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -52,8 +52,8 @@
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1579197890 4294833 0ff4e7cc052573881e20b16bfbb43939 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
   "UMKC.jpg" 1583701492 79106 8d0d9231ce215108404fbfd14863c8ca ""
-  "proposal.aux" 1587045644 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "proposal.tex" 1587044094 2218 ffc78287d56a560787bd65c990f1235f ""
+  "proposal.aux" 1587527806 713 bb9870d37b743d40e114fc00b52bdadb "pdflatex"
+  "proposal.tex" 1587527804 2644 46ccb78809e6e6f8329379f0c2aa8e22 ""
   (generated)
   "proposal.pdf"
   "proposal.log"
